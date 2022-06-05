@@ -16,3 +16,6 @@
 
 ### Stuff I also use sometimes
 ![neovim](https://img.shields.io/badge/neovim-teal?style=for-the-badge&logo=neovim)
+
+## Guidelines
+![View Guidelines](docs.md)
